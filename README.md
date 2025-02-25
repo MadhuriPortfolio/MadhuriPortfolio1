@@ -8,7 +8,7 @@ I'm recent graduate of a Data Skills Bootcamp and I am looking to secure a role 
 
 *   🌍  I'm based in London
 *   🧠  I'm learning Python
-*   🤝  I'm open to collaborating on I’m open to collaborating on projects where I can apply and further develop my skills in data analysis, Power BI, SQL and Microsoft Azure
+*   🤝  I'm open to collaborating on projects where I can apply and further develop my skills in data analysis, Power BI, SQL and Microsoft Azure
 
   ### Skills 
 <p align="left">
